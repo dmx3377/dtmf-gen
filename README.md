@@ -2,7 +2,7 @@
 
 A simple Jupyter Notebook file that generates and plays [**DTMF (Dual-Tone Multi-Frequency)**](https://grokipedia.com/page/Telephone_keypad#audio-signaling) tones - the sounds produced when dialing numbers on a telephone keypad.
 
-This project was originally written many years ago, but I decided to open-source it as I have no real use for this, and it's pretty much complete as-is.
+This project was originally [written many years ago](repository.xml#L18), but I decided to open-source it as I have no real use for this, and it's pretty much completed.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmx3377/dtmf-gen/blob/main/dtmf_gen.ipynb)
 
