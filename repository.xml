@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <name>DTMF Generator</name>
+  <short-name>dtmf_gen</short-name>
+  <version>1.0.0</version>
+  <description>A simple DTMF (Dual-Tone Multi-Frequency) generator.</description>
+
+  <author>
+    <name>dmx3377</name>
+    <email>david@dmx3377.uk</email>
+    <github>
+      <username>dmx3377</username>
+      <url>https://github.com/dmx3377</url>
+    </github>
+  </author>
+
+  <dates>
+  <created>2023-08-05</created>
+  <released>2026-01-12</released>
+  </dates>
+  
+  <languages>
+  <language>Python</language>
+  <language>Jupyter Notebook</language>
+  </languages>
+  <visibility>public</visibility>
+
+  <urls>
+    <github>https://github.com/dmx3377/dtmf-gen</github>
+    <git>https://github.com/dmx3377/dtmf-gen.git</git>
+  </urls>
+
+  <license>
+    <name>Unlicense</name>
+    <identifier>Unlicense</identifier>
+</license>
+</repository>
