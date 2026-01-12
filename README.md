@@ -4,8 +4,8 @@ A simple Jupyter Notebook file that generates and plays [**DTMF (Dual-Tone Multi
 
 This project was originally written many years ago, but I decided to open-source it as I have no real use for this, and it's pretty much complete as-is.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/dmx3377/dtmf-gen/blob/main/dtmf_gen.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmx3377/dtmf-gen/blob/main/dtmf_gen.ipynb)
+
 
 ---
 
@@ -42,7 +42,7 @@ These tones are summed and played sequentially with short pauses between digits.
 3. Run all cells
 4. The sound will output the inputted number in `DIAL_NUMBER` as a DTMF tone.
 
-# Parameters
+## Parameters
 You can adjust:
 
 * Sampling rate
@@ -58,4 +58,4 @@ PAUSE_DURATION = 0.05
 ---
 
 # License
-This software is licensed under [the Unlicense. Do whatever you want.](LICENSE)
+This software is licensed under [the Unlicense.](LICENSE)
